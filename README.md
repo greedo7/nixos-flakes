@@ -9,8 +9,8 @@ $ fastfetch
            ▄▄▄▄▖           ▜███▙  ▟███▛        Packages: 918 (nix-system)
           ▟███▛             ▜██▛ ▟███▛         Shell: bash 5.3.20
          ▟███▛               ▜▛ ▟███▛          Display (███████): ████x████ in ██", ██ Hz [█████-██]
-▟███████████▛                  ▟██████████▙    Window Manager: niri 26.04 (Wayland)
-▜██████████▛                  ▟███████████▛    Cursor: default (24px)
+                             ▟██████████▙      Window Manager: niri 26.04 (Wayland)
+                            ▟███████████▛      Cursor: default (24px)
       ▟███▛ ▟▙               ▟███▛             Terminal: alacritty 0.17.0
      ▟███▛ ▟██▙             ▟███▛              Terminal Font: IosevkaTerm NF (11.25pt, Regular)
     ▟███▛  ▜███▙           ▝▀▀▀▀               CPU: Intel(R) Core(TM) 5 120U (4+8) @ 5.00 GHz
@@ -20,5 +20,4 @@ $ fastfetch
           ▟███▛▜███▙         ▜███▙             Disk (/): 23.91 GiB / 100.14 GiB (24%) - ext4
          ▟███▛  ▜███▙         ▜███▙            Local IP (wlo1): ███.██.███.███/██ (opsec demon)
          ▝▀▀▀    ▀▀▀▀▘         ▀▀▀▘            Battery (Primary): 100% [AC Connected]
-                                               Locale: en_CA.UTF-8
-
+                                               Locale: en_CA.UTF-8```
